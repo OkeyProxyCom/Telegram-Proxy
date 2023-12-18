@@ -1,5 +1,7 @@
 # Why you Use a Telegram Proxy?
-Just like any other communication tools, Telegram has restriction and blocking issues. Although Telegram has encryption and privacy protection features, minor vulnerabilities can still be exploited by attackers to access data. That's why you need a Telegram proxy like OkeyProxy to help. The use of a Telegram proxy can be advantageous for several reasons:
+Just like any other communication tools, Telegram has restriction and blocking issues. Although Telegram has encryption and privacy protection features, minor vulnerabilities can still be exploited by attackers to access data. That's why you need a Telegram proxy like OkeyProxy to help. 
+https://www.okeyproxy.com/
+The use of a Telegram proxy can be advantageous for several reasons:
 1. Increasing your protection level. This is not only about the privacy and protection of messages, but also about personal, financial data, device information, etc. Since a proxy server provides an additional layer of encryption, it further enhances the security of communication on Telegram.
 2. Connect faster and without lag. Have you ever encountered a situation where the system "hangs" during a call and you have to wait for the connection to be restored? The most common cause is an unstable internet connection, but this can happen even if the internet is stable. In this case, the proxy becomes the guarantor of the speed and quality of messages and call exchanges.
 3. A Telegram proxy allows you to use the program without having your real IP address tied to it, this feature is particularly useful for users who wish to keep their location and identity anonymous, thus protecting your privacy on the internet.
