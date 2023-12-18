@@ -10,17 +10,18 @@ Telegram Proxy Setting For Mobile Device:
 
 ![image](https://github.com/OkeyProxyCom/Telegram-Proxy/assets/150340973/b9662b96-820c-43ff-8737-9f7b912aebf8)
 
-3. Scroll down and tap on 'Data and Storage'.
+2. Scroll down and tap on 'Data and Storage'.
 ![image](https://github.com/OkeyProxyCom/Telegram-Proxy/assets/150340973/ff5f4f32-622e-40b0-a9e2-02577de4634e)
 
-4. Scroll to the 'Proxy Settings' section.
+3. Scroll to the 'Proxy Settings' section.
 ![image](https://github.com/OkeyProxyCom/Telegram-Proxy/assets/150340973/3d894a62-43d4-4c3c-9bbe-9427ae07a628)
 
-5. Enable the “Use Proxy” setting.
+4. Enable the “Use Proxy” setting.
 ![image](https://github.com/OkeyProxyCom/Telegram-Proxy/assets/150340973/e3923f94-4f89-469e-b6f6-1a1a9c8aac48)
 
-6. Tap on 'Add Proxy' and add all of your proxy details - the server address, port, connection type, and if necessary, login credentials.
+5. Tap on 'Add Proxy' and add all of your proxy details - the server address, port, connection type, and if necessary, login credentials.
 ![image](https://github.com/OkeyProxyCom/Telegram-Proxy/assets/150340973/c154b33a-78c8-448b-8ba6-2fb1f8d11cce)
+
 Once the details are entered, save the settings, then you've done it!
 
 Telegram Proxy Setting For IOS iPhone:
